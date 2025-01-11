@@ -1,4 +1,4 @@
-### Hi there, I'm Ivan Rodrigues 👋
+### Olá, meu nome é Ivan Rodrigues 👋
 
 Me apaixonando cada vez mais pelas maiores tecnologias como HTML, CSS, JavaScript e React. A cada novo projeto, busco melhorar minhas habilidades e criar soluções inovadoras.
 
