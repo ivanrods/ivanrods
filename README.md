@@ -1,5 +1,5 @@
 ## 👋 Olá! Eu sou o Ivan Rodrigues  
-### Desenvolvedor Full Stack apaixonado por criar experiências digitais com React, Next.js e Node.js
+### Desenvolvedor Web apaixonado por criar experiências digitais com React, Next.js e Node.js
 
 Estou sempre me aprofundando nas tecnologias modernas como **HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Node.js** e **PostgreSQL**.  
 A cada novo projeto, busco evoluir minhas habilidades e transformar ideias em soluções inovadoras.
