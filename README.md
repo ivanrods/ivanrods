@@ -1,5 +1,5 @@
 ## 👋 Olá! Eu sou o Ivan Rodrigues  
-### Desenvolvedor Web apaixonado por criar experiências digitais com React, Next.js e Node.js
+### Desenvolvedor Full Stack apaixonado por criar experiências digitais com React, Next.js e Node.js
 
 Estou sempre me aprofundando nas tecnologias modernas como **HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Node.js** e **PostgreSQL**.  
 A cada novo projeto, busco evoluir minhas habilidades e transformar ideias em soluções inovadoras.
@@ -17,6 +17,7 @@ A cada novo projeto, busco evoluir minhas habilidades e transformar ideias em so
   <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />       
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
